@@ -1,0 +1,47 @@
+//SPAM DETECTION : classification problem 
+what is SPAM mail ?? 
+unwanted msgs sent in bulk . mainly commercial .
+Spammers collect email addresses from chat rooms, websites, customer lists, newsgroups, and viruses that harvest
+users' address books. These collected email addresses are sometimes also sold to other spammer
+
+Phishing: entering personal information on fake Web sites .
+Gmail creates a unique model per-user and ensembles the personalized model w/ a global model across all Gmail accounts.
+*which classification model is used* you should consider *which features are used* by email account providers 
+for modeling whether an email is spam or not.
+
+Most obvious features include : open rate , click rate , reply rate , complaint rate ,
+aggregations by sending IP, domain, from address, friendly from.
+
+
+
+In cryptography, message forgery is the sending of a message to deceive the recipient as to whom the real sender is.
+A common example is sending a spam e-mail as if it were originated from an address other than the one which was really used.
+Email spoofing is the creation of email messages with a forged sender address.
+ it is common for spam and phishing emails to use such spoofing to mislead the recipient about the origin of the message.
+ 
+ 
+ 
+ common ML algo in use :
+ 1.Naive Bayes algorithm (called “bag of words)
+ ::: is one of the most well-known supervised algorithms.  ham and spam 
+ Bayes' theorem is a formula that describes how to update the probabilities of hypotheses when given evidence. 
+ It follows simply from the axioms of conditional probability.
+ 
+ (i) : Initially calculates the probabilities of ham and spam classes.
+ (ii) : Next, calculates the probabilities of ham and spam for each word.
+ 
+ // R language :  try fiddling with the naiveBayes() in e1071 package.
+ 
+ 
+ in response to this , spammers started sending images :P
+ Sent pictures have textual information but this information cannot be processed,
+ because of an inappropriate format of textual based machine learning algorithms. 
+ Researchers responded this action using image processing techniques in order to 
+ gather words from images, before running machine learning algorithms.
+  attackers locate text in images in different angles to make it harder to recognize. 
+
+
+
+
+Logistic regression, SVM and Random Forest are other options that you can 
+try but probably you will not face a need to go there.
