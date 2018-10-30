@@ -1,0 +1,40 @@
+1.kind of unsupervised learning algorithm 
+2.finds a structure in unlabled data 
+def: process of organizing objects into groups whose members are similar in some way:
+
+similarity criteria 
+1.Distance : distance based clustering  // for higher dimensional data :minkowski metric 
+2.conceptual clustering 
+
+
+applications !!
+1.Marketing: finding groups of customers with similar behavior given a large database of customer data containing their properties and past buying records;
+2.Biology: classification of plants and animals given their features;
+3.Libraries: book ordering;
+4.Insurance: identifying groups of motor insurance policy holders with a high average claim cost; identifying frauds;
+5.City-planning: identifying groups of houses according to their house type, value and geographical location;
+6.Earthquake studies: clustering observed earthquake epicenters to identify dangerous zones;
+7.WWW: document classification; clustering weblog data to discover groups of similar access patterns.
+
+
+clustering algorithm must satisfy :
+scalability;
+dealing with different types of attributes;
+discovering clusters with arbitrary shape;
+minimal requirements for domain knowledge to determine input parameters;
+ability to deal with noise and outliers;
+insensitivity to order of input records;
+high dimensionality;
+interpretability and usability.
+
+
+Clustering algorithms may be classified as listed below:
+
+1.Exclusive Clustering:if a certain datum belongs to a definite cluster then it could not be included in another cluster.
+
+2.Overlapping Clustering: uses fuzzy sets to cluster data, so that each point may belong to two or more clusters
+with different degrees of membership. each data is associated to an appropriate membership value.
+
+3.Hierarchical Clustering: union between the two nearest clusters,
+beginning condition is realized by setting every datum as a cluster.
+4. Probabilistic Clustering
