@@ -2,12 +2,18 @@ Detailed Lecture-wise Break-up for the Microcredit Subject: Computational Intell
 Lecture 1 
 • Cyber Security Fundamentals: Issues, challenges and solution approaches (2 Hours)
 Lecture 2 
-• Supervised and unsupervised learning: Basic concepts of clustering and classification. Applications in spam detection, intrusion detection and credit card fraud detection (2 Hours)
+• Supervised and unsupervised learning: Basic concepts of clustering and classification. 
+Applications in spam detection, intrusion detection and credit card fraud detection (2 Hours)
 Lecture 3 
-• Connectionist framework: Neural Networks (NN) and their security applications. Challenges in using classical connectionist framework for new generation threats like Ransomware and need for using deep neural networks (2 Hours)
+• Connectionist framework: Neural Networks (NN) and their security applications.
+Challenges in using classical connectionist framework for new generation threats 
+like Ransomware and need for using deep neural networks (2 Hours)
 Lecture 4 
-• Evolutionary Computation (EC): Basic concepts, Risk-based models for building cyber defense infrastructure, Cost-based models (2 Hours)
+• Evolutionary Computation (EC): Basic concepts, Risk-based models for
+building cyber defense infrastructure, Cost-based models (2 Hours)
 Lecture 5 
-• Immunological Computation (IC): Immunity based computational models, Mitigation of distributed denial of service attacks (2 Hours)
+• Immunological Computation (IC): Immunity based computational models, 
+Mitigation of distributed denial of service attacks (2 Hours)
 Lecture 6 
-• Recent Topics in Cyber Security: Attacker-defender game, Adaptive Multi-Factor Authentication (A-MFA), Demonstration of tools for cyber security (2 Hours)
+• Recent Topics in Cyber Security: Attacker-defender game, Adaptive
+Multi-Factor Authentication (A-MFA), Demonstration of tools for cyber security (2 Hours)
